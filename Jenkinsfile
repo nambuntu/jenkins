@@ -10,11 +10,8 @@ pipeline {
             steps {
                 echo cronString
                 echo 'Hello World'
-
-                cronString = ""
-                echo "reset cronString" + cronString
-                echo "Done"
             }
         }
     }
 }
+cronString = ""

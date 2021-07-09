@@ -54,4 +54,3 @@ docker run --name jenkins-blueocean --rm --detach \
   myjenkins-blueocean:1.1
 ```
 
-## Just a test
